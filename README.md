@@ -4,13 +4,6 @@ A responsive **Student Management Dashboard** built with **React.js** that provi
 
 ---
 
-## 📸 Project Preview
-
-
-
-![Dashboard Home](assets/dashboard-home.png)
-
-![Dashboard Filter View](assets/dashboard-filter.png)
 
 ---
 
