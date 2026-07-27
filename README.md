@@ -2,7 +2,7 @@
 
 A responsive **Student Management Dashboard** built with **React.js** that provides a clean interface for monitoring student information, attendance, and academic performance. This project demonstrates modern React development using reusable components, state management, and responsive UI design.
 
----
+
 
 
 ---
